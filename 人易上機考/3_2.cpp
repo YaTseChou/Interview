@@ -18,12 +18,12 @@ int main(){
 			k++;
 		}
 	}
-	printf("°¸¼Æ°}¦C: ");
+	printf("å¶æ•¸é™£åˆ—: ");
 	for(j = 0; j < 5; j++){
 		printf("%d ", *(even + j));
 	}
 	printf("\n");
-	printf("©_¼Æ°}¦C: ");
+	printf("å¥‡æ•¸é™£åˆ—: ");
 	for(k = 0; k < 5; k++){
 		printf("%d ", *(odd + k));
 	}
