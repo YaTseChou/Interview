@@ -14,6 +14,6 @@ int main(){
 				oddSum += arr[i];
 			}
 		}
-		printf("©_¼Æ­ÈÁ`©M´î¥h°¸¼Æ­ÈÁ`©M: %d\n", oddSum - evenSum);
+		printf("å¥‡æ•¸å€¼ç¸½å’Œæ¸›å»å¶æ•¸å€¼ç¸½å’Œ: %d\n", oddSum - evenSum);
 	return 0;
 }
